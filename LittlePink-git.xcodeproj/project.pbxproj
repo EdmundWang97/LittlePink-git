@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C0634E192B80D27C00F40CF6 /* .gitignore.txt in Resources */ = {isa = PBXBuildFile; fileRef = C0634E182B80D27C00F40CF6 /* .gitignore.txt */; };
+		C0634E1B2B80D51E00F40CF6 /* .gitignore.txt in Resources */ = {isa = PBXBuildFile; fileRef = C0634E1A2B80D51E00F40CF6 /* .gitignore.txt */; };
 		C088EA352B7F576100C7EB90 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C088EA342B7F576100C7EB90 /* AppDelegate.swift */; };
 		C088EA372B7F576100C7EB90 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C088EA362B7F576100C7EB90 /* SceneDelegate.swift */; };
 		C088EA392B7F576100C7EB90 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C088EA382B7F576100C7EB90 /* ViewController.swift */; };
@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		C0634E182B80D27C00F40CF6 /* .gitignore.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore.txt; sourceTree = "<group>"; };
+		C0634E1A2B80D51E00F40CF6 /* .gitignore.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore.txt; sourceTree = "<group>"; };
 		C088EA312B7F576100C7EB90 /* LittlePink-git.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "LittlePink-git.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C088EA342B7F576100C7EB90 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C088EA362B7F576100C7EB90 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -42,7 +42,7 @@
 		C088EA282B7F576100C7EB90 = {
 			isa = PBXGroup;
 			children = (
-				C0634E182B80D27C00F40CF6 /* .gitignore.txt */,
+				C0634E1A2B80D51E00F40CF6 /* .gitignore.txt */,
 				C088EA332B7F576100C7EB90 /* LittlePink-git */,
 				C088EA322B7F576100C7EB90 /* Products */,
 			);
@@ -130,7 +130,7 @@
 			files = (
 				C088EA412B7F576300C7EB90 /* LaunchScreen.storyboard in Resources */,
 				C088EA3E2B7F576300C7EB90 /* Assets.xcassets in Resources */,
-				C0634E192B80D27C00F40CF6 /* .gitignore.txt in Resources */,
+				C0634E1B2B80D51E00F40CF6 /* .gitignore.txt in Resources */,
 				C088EA3C2B7F576100C7EB90 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
